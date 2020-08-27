@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/sounds/hurt.wav</SourceFile>
+  <SourceTime>2020-08-21T17:56:53.967482+02:00</SourceTime>
+  <DestFile>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/bin/Windows/sounds/hurt.xnb</DestFile>
+  <DestTime>2020-08-27T02:59:15.0036779+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-23T23:55:52+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T23:55:52+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

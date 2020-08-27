@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/sounds/Iceland.mp3</SourceFile>
+  <SourceTime>2020-08-12T21:35:41.9493455+02:00</SourceTime>
+  <DestFile>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/bin/Windows/Content/sounds/Iceland.xnb</DestFile>
+  <DestTime>2020-08-12T21:43:30.6886928+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-09-23T23:55:52+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-09-23T23:55:52+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/bin/Windows/Content/sounds/Iceland.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

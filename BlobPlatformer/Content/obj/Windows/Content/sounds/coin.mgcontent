@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/sounds/coin.wav</SourceFile>
+  <SourceTime>2020-08-12T21:24:07.6504625+02:00</SourceTime>
+  <DestFile>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/bin/Windows/Content/sounds/coin.xnb</DestFile>
+  <DestTime>2020-08-12T21:25:55.6826374+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-23T23:55:52+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T23:55:52+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/fonts/Font.spritefont</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/fonts/Score.spritefont</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/buttonLB2.PNG</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Chest.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Cloud1.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Cloud2.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Coin.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Dirt.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Elements.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Grass.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Hills1.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Hills2.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/idle.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/jump.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Mountain1.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Mountain2.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Mountain3.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Mountain4.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/run.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Saw.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Sky.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Snow.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Spike_down.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/Spike_Up.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/UI.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/water.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/graphics/WinterGrass.png</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/sounds/coin.wav</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/sounds/Grassland.mp3</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/sounds/hurt.wav</File>
+    <File>C:/Users/Nick/Documents/School/Game Dev/BlobPlatformer/BlobPlatformer/Content/sounds/Iceland.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
